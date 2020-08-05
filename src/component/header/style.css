@@ -18,6 +18,7 @@
 }
 
 .headerMenu a:hover{
+    text-decoration: none;
     color: #5f9ea0;
     font-size: 13px;
     transition: font-size .3s;
