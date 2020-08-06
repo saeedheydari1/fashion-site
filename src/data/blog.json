@@ -1,0 +1,48 @@
+{
+    "data":[
+        {
+            "id":1,
+            "blogCatagori":"futered1",
+            "blogTitle":"Fitnes Mantra To Live Life",
+            "postedOn":"oct 12 2020",
+            "author":"saeed",
+            "blogImage":"fitnes.jpg",
+            "blogText":"lorem loremBuilding a website to fashionifighriuGUOEOLGNNB JWRBNHBN  IWEBGHUHEGV WIUHNOWNROBG  IRUGUOWBGGB IUGWH0IG0G084hgh ouhbuhg."
+        },
+        {
+            "id":2,
+            "blogCatagori":"futered2",
+            "blogTitle":"Fitnes Mantra To Live Life",
+            "postedOn":"oct 13 2020",
+            "author":"saeed",
+            "blogImage":"fitnes.jpg",
+            "blogText":"lorem loremBuilding a website to fashionifighriuGUOEOLGNNB JWRBNHBN  IWEBGHUHEGV WIUHNOWNROBG  IRUGUOWBGGB IUGWH0IG0G084hgh ouhbuhg."
+        },
+        {
+            "id":3,
+            "blogCatagori":"futered3",
+            "blogTitle":"Fitnes Mantra To Live Life",
+            "postedOn":"oct 14 2020",
+            "author":"saeed",
+            "blogImage":"fitnes.jpg",
+            "blogText":"lorem loremBuilding a website to fashionifighriuGUOEOLGNNB JWRBNHBN  IWEBGHUHEGV WIUHNOWNROBG  IRUGUOWBGGB IUGWH0IG0G084hgh ouhbuhg."
+        },
+        {
+            "id":4,
+            "blogCatagori":"futered4",
+            "blogTitle":"Fitnes Mantra To Live Life",
+            "postedOn":"oct 15 2020",
+            "author":"saeed",
+            "blogImage":"fitnes.jpg",
+            "blogText":"lorem loremBuilding a website to fashionifighriuGUOEOLGNNB JWRBNHBN  IWEBGHUHEGV WIUHNOWNROBG  IRUGUOWBGGB IUGWH0IG0G084hgh ouhbuhg."
+        },        {
+            "id":5,
+            "blogCatagori":"futered5",
+            "blogTitle":"Fitnes Mantra To Live Life",
+            "postedOn":"oct 16 2020",
+            "author":"saeed",
+            "blogImage":"fitnes.jpg",
+            "blogText":"lorem loremBuilding a website to fashionifighriuGUOEOLGNNB JWRBNHBN  IWEBGHUHEGV WIUHNOWNROBG  IRUGUOWBGGB IUGWH0IG0G084hgh ouhbuhg."
+        }
+    ]
+}
